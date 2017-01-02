@@ -14,7 +14,7 @@
     "ghost": "0.11.3",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
-    "neverendingqs-material-sidenav": "neverendingqs/neverendingqs-material-sidenav#1.5.0",
+    "neverendingqs-material-sidenav": "neverendingqs/neverendingqs-material-sidenav#1.6.0",
     "pg": "latest"
   },
   "engines": {
